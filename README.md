@@ -34,4 +34,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="js" width="40" height="40"/>&nbsp;
 
-<img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default username=vn7n24fzkq&theme=github_dark"/>
+My stat
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark"/>
