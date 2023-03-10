@@ -22,7 +22,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="700">
 ### About me
 
-- <img align="right" height="270px" width="450px" alt="GIF" srcc="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3></div> I’m currently learning **Python**
+- <src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3></div> I’m currently learning **Python**
 
 - 💯 I regularly improve my skills
 
