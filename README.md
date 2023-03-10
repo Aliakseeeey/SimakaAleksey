@@ -17,13 +17,13 @@
 </div>
 ### About me
 
-- 🌱 I’m currently learning **Python**
+- 🐍 I’m currently learning **Python**
 
 - 💯 I regularly improve my skills
 
-- 📄 Know about my experience with photoshop
+- 🏆 Know about my experience with photoshop
  
-- 📫 Reach me by [LinkedIn](www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%81%D0%B8%D0%BC%D0%B0%D0%BA%D0%B0-9366861a3/), [email](mailto:Leskasima@gmail.com)
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%81%D0%B8%D0%BC%D0%B0%D0%BA%D0%B0-9366861a3/), [email](mailto:Leskasima@gmail.com)
 
 - 🌍 I am learning English
 
