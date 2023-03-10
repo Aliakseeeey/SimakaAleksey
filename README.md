@@ -1,5 +1,5 @@
 <h1 выравнивание="центр">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Симака Алексей" />
+  <img src="https://github.com/Aliakseeeey/" alt="Симака Алексей" />
 </h1>
 # SimakaAleksey
 <div id="header" align="center">
