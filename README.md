@@ -13,7 +13,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 	<a href="twitter-url">
-		<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+		<img src="https://img.shields.io/badge/Gmail-weath?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 	</a>
 	<a href="https://t.me/Just_a_Humaaaaan">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
