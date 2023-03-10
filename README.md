@@ -38,3 +38,6 @@
 My stat
 <div id="stat" align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark"/>
+	
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="участники GitHub" src="https://img.shields.io/github /contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu /awesome-github-profile-readme?color=2b9348" alt="Значок лицензии"/></a>
