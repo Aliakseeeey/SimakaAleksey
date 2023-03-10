@@ -2,8 +2,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <br />
 <div id="header" align="center">
-	<h1>Hi there, I'm Aleksey</h1>
-	<h3>Python Developer from Minsk</h3>
+	<h2>Python Developer from Minsk</h2>
 </div>
 </a>
 <div id="socials" align="center">
