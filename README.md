@@ -1,7 +1,7 @@
-<h1 выравнивание="центр">
-  <img src="https://github.com/Aliakseeeey/" alt="Симака Алексей" />
-</h1>
-# SimakaAleksey
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Elon Tang</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<br />
+# Simaka Aleksey
 <div id="header" align="center">
 	<h1>Hi there, I'm Aleksey</h1>
 	<h3>Python Developer from Minsk</h3>
