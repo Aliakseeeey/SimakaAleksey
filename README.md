@@ -1,20 +1,8 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-
-
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
-</div>
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
-<div align="center">
-to my personal GitHub profile!
-</div>
-
-
-
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Simaka Aleksey</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 <br />
 <div id="header" align="center">
 	<h2>Python Developer from Minsk</h2>
