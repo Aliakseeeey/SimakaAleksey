@@ -3,8 +3,6 @@
 	<h1>Hi there, I'm Aleksey</h1>
 	<h3>Python Developer from Minsk</h3>
 </div>
-<a href="linkedin-url">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <div id="socials" align="center">
 	<a href="linkedin-url">
