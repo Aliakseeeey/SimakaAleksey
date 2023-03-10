@@ -8,8 +8,6 @@
 to my personal GitHub profile!
 </div>
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-<p align="center">
 
 
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Simaka Aleksey</a> <img
@@ -30,6 +28,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
 ### About me
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3></div> I’m currently learning **Python**
