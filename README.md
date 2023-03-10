@@ -1,4 +1,7 @@
-# @@ -10,7 +10,7 @@SimakaAleksey
+<h1 выравнивание="центр">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Симака Алексей" />
+</h1>
+# SimakaAleksey
 <div id="header" align="center">
 	<h1>Hi there, I'm Aleksey</h1>
 	<h3>Python Developer from Minsk</h3>
