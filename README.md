@@ -8,8 +8,6 @@
 to my personal GitHub profile!
 </div>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
 
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Simaka Aleksey</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
@@ -31,7 +29,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </div>
 ### About me
 
-- 🐍 I’m currently learning **Python**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div> I’m currently learning **Python**
 
 - 💯 I regularly improve my skills
 
