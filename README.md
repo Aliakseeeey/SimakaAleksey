@@ -21,7 +21,7 @@
 - 📝 I regularly write articles on [Medium](medium-link)
 
 - 📄 Know about my experiences [CV](cv-link)
-- 
+ 
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
 
 - 🌍 I speak English
@@ -33,3 +33,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="js" width="40" height="40"/>&nbsp;
+
+<img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default username=vn7n24fzkq&theme=github_dark"/>
