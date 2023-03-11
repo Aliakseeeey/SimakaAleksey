@@ -5,7 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br />
 <div id="header" align="center">
-	<h2>Python Developer from Minsk</h2>---
+	<h2>Python Developer from Minsk</h2>
 </div>
 </a>
 <div id="socials" align="center">
@@ -54,3 +54,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </div>
 	
 
+<p align="center">
+  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
+  <h3 align="center">Github Readme Streak Stats</h3>
+</p>
