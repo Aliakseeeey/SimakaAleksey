@@ -44,7 +44,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="js" width="40" height="40"/>&nbsp;
 
 
-My stat
 <div id="stat" align="center">
 	<img height="370px" width="550px" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="">
