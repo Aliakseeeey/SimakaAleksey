@@ -53,8 +53,3 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p align="">
 </div>
 	
-
-<p align="center">
-  <img src="https://git.io/streak-stats" width="100px"/>
-  <h3 align="center">Github Readme Streak Stats</h3>
-</p>
